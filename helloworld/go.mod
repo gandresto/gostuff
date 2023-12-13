@@ -1,3 +1,3 @@
-module github.com/gandresto/gostuff/helloworld
+module example.com/gostuff/helloworld
 
 go 1.21.5

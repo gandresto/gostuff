@@ -1,3 +1,3 @@
-module github.com/gandresto/gostuff/closures
+module example.com/gostuff/closures
 
 go 1.21.5

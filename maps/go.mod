@@ -1,3 +1,3 @@
-module github.com/gandresto/gostuff/maps
+module example.com/gostuff/maps
 
 go 1.21.5

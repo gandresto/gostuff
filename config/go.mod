@@ -1,4 +1,4 @@
-module github.com/gandresto/gostuff/config
+module example.com/gostuff/config
 
 go 1.21.5
 
