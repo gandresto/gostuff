@@ -17,6 +17,7 @@ func main() {
 		"4": {"Boring with channel stops when revieves 5 messages", runBoringWithChan},
 		"5": {"Boring generator stops when revieves 5 messages", runBoringGenerator},
 		"6": {"Boring conversation stops when revieves 5 messages from each person", bobAndAliceBoringConversation},
+		"7": {"Multiplexing example", multiplexingExample},
 		"0": {"Just exit the program 🏃", func() {}},
 	}
 
