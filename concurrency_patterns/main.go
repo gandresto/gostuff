@@ -18,6 +18,8 @@ func main() {
 		"5": {"Boring generator stops when revieves 5 messages", runBoringGenerator},
 		"6": {"Boring conversation stops when revieves 5 messages from each person", bobAndAliceBoringConversation},
 		"7": {"Multiplexing example", multiplexingExample},
+		"8": {"Timeout per message", timeoutPerMessage},
+		"9": {"Timeout whole conversation", timeoutWholeConversation},
 		"0": {"Just exit the program 🏃", func() {}},
 	}
 
